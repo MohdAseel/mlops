@@ -3,3 +3,4 @@ data_prepare.ipynb
 .venv/*
 mlflow.db
 mlartifacts/*
+.env.example
